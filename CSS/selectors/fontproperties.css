@@ -1,0 +1,66 @@
+p{
+    font-size:  20px;
+    /* xx-small,x-small,small,normal,medium,large,x-large,xx-large,any number */
+}
+
+p{
+    font-style: oblique;
+    /* normal,italiq/oblique */
+}
+
+p{
+    font-weight: normal;
+    /* normal,bold,100-900 */
+}
+
+/* font family:georgia,times new roman,time serif */
+
+p{
+  font-family:monospace;
+}
+
+p{
+  font-variant:normal;
+}
+
+
+
+.font1{
+  font-family: "Edu AU VIC WA NT Guides", cursive;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.font2 {
+    font-family: "Londrina Sketch", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+
+
+.font3 {
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+  
+.font4 {
+    font-family: "Qwitcher Grypen", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+
+
+.font5 {
+  font-family: "Noto Sans Devanagari", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+  

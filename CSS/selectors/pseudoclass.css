@@ -1,0 +1,88 @@
+/* h1{
+    color: white;
+    background-color: blue;
+} */
+
+
+/* #box{
+    background-color: crimson;
+    height: 150px;
+    width: 150px;
+
+} */
+/* #box:hover{
+    height: 200px;
+    width: 100px;
+    background-color: blue;
+} */
+
+/* section p:first-child{
+    color: red;
+    background-color: teal;
+} */
+
+/* section p:last-child{
+    color: green;
+    background-color: purple;
+} */
+
+/* section p:nth-child(6){
+    color: white;
+    background-color: brown;
+} */
+
+/* #container1 p:nth-child(2),
+#container1 p:nth-child(4),
+#container1 p:nth-child(6),
+#container1 p:nth-child(8){
+    color: white;
+    background-color: red;
+} */
+
+/* #container1 p:nth-child(even){
+    color: white;
+    background-color: rgb(65, 65, 4);
+} */
+
+/* #container1 p:nth-child(odd){
+    color: white;
+    background-color: rgb(150, 65, 4);
+} */
+
+
+/* #container1 p:nth-child(3n-1){
+    color: white;
+    background-color: rgb(65, 65, 4);
+} */
+
+#mainContainer :first-of-type{
+    color: white;
+    background-color:purple;
+}
+
+#mainContainer :last-of-type{
+    color: white;
+    background-color:teal;
+}
+
+/* Unvisited */
+a:link{
+    color: red;
+    background-color: black;
+}
+
+/* visited */
+a:visited{
+    color: blue;
+}
+
+
+/*Active */
+a:active{
+    color:green;
+}
+
+a:hover{
+    background-color: yellow;
+}
+

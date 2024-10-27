@@ -1,0 +1,54 @@
+
+ /*Universal selector  displayed all the body content */
+
+
+/* *{
+    color: magenta;
+} */
+
+/* Element selector */
+
+/* h1{
+    color:chocolate;
+} */
+
+
+   /* ID Selector we use  */
+
+/* 
+#heading1{
+color: black;
+
+} */
+
+ /* Now we use class selector */
+
+/* .myclass{
+    color: red;
+} */
+
+/* PRACTICS QUESTION 1 */
+#box{
+    color: blue;
+    color: white;
+
+}
+
+/* Practice Question 2 */
+
+/* .heading{
+    color: red;
+} */
+
+h1,h2,h3{
+    color: red;
+}
+
+
+
+/* PRACTICS QUESTION 3 */
+
+button{
+    background-color: green;
+}
+

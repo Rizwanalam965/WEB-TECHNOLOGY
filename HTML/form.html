@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Registration Form</h1>
+    <form></form>
+        <fieldset>
+            <legend>Personal Details</legend>
+        <label for="empName">Name :</label>
+        <input name="userName" type="text" value="Random Name" id="empName"> <br> <br>
+
+        <label for="empEmail"> Email :</label>
+        <input name="userEmail" type="email" id="empEmail"> <br> <br>
+
+        <label for="empAge">Age :</label>
+        <input name="userAge" type="number" id="empAge"> <br> <br>
+
+        <label for="empNo">Mobile No :</label>
+        <input name="userNo" type="tel" id="empNo"> <br> <br>
+
+        <label for="">Gender</label>
+        <input type="radio" name="userGender" value="male">Male 
+        <input type="radio" name="userGender" value="femake">Female
+        <input type="radio" name="userGender" value="other">Other <br> <br>
+    </fieldset>
+    
+    <fieldset>
+        <legend>Education Details </legend>
+        <label for="">Skills</label>
+        <input type="checkbox" name="userSkills" value="html">HTML 
+        <input type="checkbox" name="userSkills" value="css">CSS 
+        <input type="checkbox" name="userSkills" value="js">JavaScript 
+        <input type="checkbox" name="userSkills" value="reactjs">React JS <br> <br>
+
+        <label for="">Skills :</label>
+        <select name="empSkills"multiple>
+            <option value="noskills">None</option>
+            <option value="basic">HTML</option>
+            <option value="intermediate">CSS</option>
+            <option value="advance">JavaScript</option>
+            <option value="pro">React Js</option>
+        </select> <br> <br>
+       
+        <label for="">Skills :</label>
+        <select name="masterskills">
+            <optgroup>
+            <option value="">HTML</option>
+            <option value="">CSS</option>
+            <option value="">JavaScript</option>
+            <option value="">TailwindCSS</option>
+            <option value="">reactJs</option>
+        </optgroup>
+        <br> <br>
+        <optgroup label="database">
+            <option value="">SQL</option>
+            <option value="">MondoDB</option>
+            <option value="">NoSQL</option>
+            <option value="">PLSQL</option>
+            <option value="">JSON</option>
+        </optgroup>
+        <optgroup label="backend">
+            <option value="">Java</option>
+            <option value="">python</option>
+            <option value="">JavaScript</option>
+            <option value="">C++</option>
+        </optgroup>
+
+        <optgroup label="services">
+            <option value="">AWS</option>
+            <option value="">Azure</option>
+            <option value="">SalesForce</option>
+        </optgroup>
+    </fieldset>
+
+        </select> <Br> </Br>
+        <fieldset>
+            <legend>
+                Reviews
+            </legend>
+        <label for="">Comments :</label>
+        <textarea name="" id="" rows="15" cols="50"></textarea> <Br> </Br>
+
+        <label for="">Feedback :</label>
+        <textarea name="" id="" rows="12" cols="40"></textarea> <Br> </Br>
+        </fieldset>
+        <button type="submit">Submit</button>
+        <button type="reset">Reset</button>
+        <fieldset>
+            <legend>Type attribute value</legend>
+            <input type="text"> <br>
+            <input type="email"> <br>
+            pasward:<input type="password"> <br>
+            <input type="number"> <br>
+            <input type="tel"> <br>
+            <input type="radio">Male <br>
+            <input type="checkbox">html<br>
+
+            <input type="date"> <br>
+            <input type="time"> <br>
+            <input type="week"> <br>
+            <input type="month"> <br>
+            <input type="datetime-local"> <br>
+
+            <input type="button" value="button"> <br>
+            <input type="submit" value="submit"> <br>
+            <input type="reset" value="reset"> <br>
+
+
+            <input type="image" src="./image file/heart.png"> <br>
+            <input type="url" ><br>
+            <input type="color" name="color"> <br>
+            <input type="search" ><br>
+            <input type="file" ><br>
+            <input type="range" name="rangeValue"> <br>
+            name:<input type="range" name="rangeValue" min="0" max="8" value="name"> <br>
+
+        </fieldset>
+        <fieldset>
+            <legend>input tag attribute</legend>
+        <input type="text"> <br>
+        <input type="text" name="containername">  <br>
+        <input type="text" name="containername" value="defaultValue">  <br>
+        age:<input type="text" min="18" max="40 " >  <br>
+        Name:<input type="text" minlength="5" maxlength="8">  <br>
+        Name:<input type="text" size="10">  <br>
+        Name:<input type="text" size="20"> <br>
+        Company name:<input type="text" value="Tcs" readonly> <br>
+        Company name:<input type="text" value="Tcs" disabled><br>
+    </fieldset>
+    <label for="">Skill</label>
+    <select name="skill" id="">
+    
+    <optgroup>
+        <option value="">css</option>
+        <option value="">html</option>
+        <option value="">js</option>
+        <option value=""> react ja</option>
+        <option value="">node</option>
+        <option value="">express</option>
+        <option value="">java</option>
+        <option value="">python</option>
+        </optgroup>
+
+
+        <input list="ggg"> 
+        <datalist  id="ggg" >
+            <option value="">HTML</option>
+            <option value="">CSS</option>
+            <option value="">JavaScript</option>
+            <option value="">TailwindCSS</option>
+            <option value="">reactJs</option>
+        </datalist>
+
+    </form>
+
+</body>
+</html>

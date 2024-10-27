@@ -1,0 +1,31 @@
+#container1{
+    height: 200px;
+    width: 200px;
+    border-top:5px solid black ;
+    border-left:5px dotted red ;
+    border-right:5px solid green ;
+    border-bottom:5px dashed teal ;
+
+}
+#container2{
+    height: 200px;
+    width: 200px;
+    /*  here border style is mendatory to mension here if we dont mension border style the it will not work    */
+    border:   20px solid red ;
+
+    /* border-top-left-radius: 20px;
+    border-bottom-right-radius: 30px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius:60px  */
+
+
+    /* sort hand border   left-top,right-top,left-bottom,right-bottom*/
+    border-radius: 10px 30px 50px 70px;
+}
+table{
+    border-spacing:20px;
+    /* it is equivalent to cellspacing attributes */
+    border-collapse: collapse;
+    /* seperate,collapse */
+    border-color: brown;
+}

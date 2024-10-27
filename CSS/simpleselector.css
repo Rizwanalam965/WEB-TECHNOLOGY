@@ -1,0 +1,68 @@
+/* Simple selector */
+/* h1{
+    color: white;
+    background-color: teal;
+
+}
+
+h2{
+color: white;
+background-color: teal;
+}
+h3{
+    color: white;
+    background-color: teal;
+}
+p{
+    color: white;
+    background-color: teal;
+}
+i{
+    color: white;
+    background-color: teal;
+}
+u{
+    color: white;
+    background-color: teal;
+}
+
+div{
+    color: white;
+    background-color: teal;
+} */
+
+ /* Grpupping (,) secector */
+
+/* 
+h1,h2,h3,p,div,i,u{
+    color: white;
+    background-color: teal;
+} */
+
+/* Universal Selector = it will apply over the html docoment and body also*/
+/* *{
+    color: white;
+    background-color: teal;
+} */
+
+/* #demo{
+color: red;
+background-color: teal;
+} */
+
+
+/* #rizwan{
+    color: red;
+    background-color: teal;
+    } */
+
+
+    
+.demo{
+    color :white;
+    background-color: brown;
+}
+.demo3{
+    color:white;
+    background-color: chocolate;
+}

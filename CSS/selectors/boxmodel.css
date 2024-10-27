@@ -1,0 +1,205 @@
+/* h1{
+    margin: 24px;
+    padding: 20px;
+    border: 1px solid;
+}
+h2{
+    margin: 24px;
+    padding: 20px;
+    border: 1px solid;
+}
+
+h3{
+    margin: 24px;
+    padding: 20px;
+    border: 1px solid;
+}
+h5{
+    margin: 24px;
+    padding: 20px;
+    border: 1px solid;
+}
+h6{
+    margin: 24px;
+    padding: 20px;
+    border: 1px solid;
+}
+b{
+    margin: 24px;
+    padding: 20px;
+    border: 1px solid;
+}
+p{
+    margin: 24px;
+    padding: 20px;
+    border: 1px solid;
+}
+
+div{
+    margin: 24px;
+    padding: 20px;
+    border: 1px solid;
+} */
+
+
+/* *{
+    margin: 0px;
+    padding: 0px;
+} */
+
+/* 
+#box{
+    height: 200px;
+    width: 200px;
+    border:solid red;
+
+    /* padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+    padding-left: 40px; */
+
+    /* padding: 10px 20px 30px 40px;
+    margin: 10px 20px 30px 40px; */
+
+    /* padding: 10px 20px 30px;
+    margin: 10px 20px 30px; */
+
+    /* padding: 10px 20px;
+    margin: 10px 20px ; */
+
+    /* padding: 10px;
+    margin: 10px; */
+
+/* }   */
+
+
+ /* .products{
+    border: 3px solid red;
+    height: 200px;
+    width: 200px;
+    display: inline-block; */
+    /* none,inline,block,inline-block, */
+
+    /* margin: 10px;
+    padding: 10px;
+     */
+    /* margin: auto; */
+/* }  */
+
+/* #navcontainer{
+    /* border:3px solid red; 
+    background-color: bisque;
+    text-align: center;
+    
+} */
+
+/* .navitems{
+    height: 40px;
+    width: 10px;
+    display: inline-block;
+    /* margin: 10px; */
+    /* padding: 10px 117px;
+    color: black;
+    font-size: large;
+    text-align: center; */
+
+/* }  */
+/* 
+#navcontainer .navitems:hover{
+    background-color: brown;
+
+} */
+
+
+/* ======= coding lab nav bar */
+/* 1 colorzill -color
+2 fontawesome for icons
+3 cdnjs for fontawesome link */
+
+#Codinglab{
+    /* border:solid red; */
+    background-color: #4170f4;
+
+}
+
+#Codinglab div{
+    display: inline-block;
+    font-family: "Roboto",sans-serif;
+    font-style: normal;
+    color:white;
+    padding: 20px;
+}
+
+#Codinglab .extra{
+    font-size: 25px;
+}
+
+
+
+
+/* ===== === Coadinglab_ pro    ======== */
+
+#Codinglab_pro{
+    /* border: solid red; */
+    /* display: inline-block; */
+    background-color: #4170f4;
+    color: white;
+    margin: 0px 10px;
+}
+
+#Codinglab_pro .logo{
+    /* border: solid green; */
+    display: inline-block;
+    margin-left: 10px;
+    padding: 30px 40px ;
+    font-size: 30px;
+}
+
+#Codinglab_pro .logo:hover{
+    color: brown;
+}
+
+#Codinglab_pro .Options {
+    /* border: solid yellow; */
+    display: inline-block;
+    font-size: 15px;
+    margin-left: 10px;
+    padding: 0px 0px ;
+
+}
+
+#Codinglab_pro .Options div{
+    /* border: solid blue; */
+    display: inline-block;
+    margin-left: 10px;
+    padding: 0px 40px ;
+    font-size: 20px;
+}
+
+#Codinglab_pro .Options div:hover{
+    text-decoration: underline;
+    color: brown;
+}
+
+#Codinglab_pro .icons {
+    /* border: solid brown; */
+    display: inline-block;
+    margin-left: 10px;
+    padding: 0px 24px ;
+    /* font-size: 30px; */
+}
+
+#Codinglab_pro .icons:hover{
+    color: brown;
+}
+
+
+#Codinglab_pro .icons i{
+    /* border: solid brown; */
+    display: inline-block;
+    margin-left: 10px;
+    font-size: 30px;
+}
+
+
+

@@ -1,0 +1,29 @@
+
+#myclass1{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    margin: 25px;
+    padding: 25px;
+    display: inline block;
+
+}
+
+#myclass2{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    margin: 25px;
+    padding: 25px;
+    display: inline block;
+    
+}
+
+#myclass3{
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+    margin: 25px;
+    padding: 25px;
+    display: inline block;
+}

@@ -1,0 +1,584 @@
+#task1{
+    /* border: solid red; */
+    background-color:whitesmoke;
+    /* border-top:  1px solid gray; */
+    margin-bottom: 50px;
+}
+
+/* #task .border{
+    border-top:  10px solid gray;
+    margin-top:10px;
+} */
+
+#task1 .logo{
+    /* border: solid blue; */
+    display: inline-block;
+    /* font-size: large; */
+}
+#task1 i{
+    /* border: solid blue; */
+    display: inline-block;
+    font-size:xx-large;
+    
+}
+
+#task1 .simple-header{
+    /* border: solid green; */
+    display: inline-block;
+    padding: 35px 0px;
+    font-size: 25px; 
+}
+
+#task1 .options{
+    /* border: solid blue; */
+    display: inline-block;
+    margin-left: 830px;
+    padding: 35px 0px;
+    color: #0000EE;
+}
+
+#task1 .options div{
+    /* border: solid teal; */
+    display: inline-block;
+    padding: 0px 0px;
+}
+
+#task1 .options .items{
+    /* border: solid teal; */
+    display: inline-block;
+    font-size: 18px ;
+    padding: 0px 10px;
+}
+
+#task1 .options .items:hover{
+background-color: #0000EE;
+color: white;
+border-radius: 8px;
+
+}
+
+
+
+/* =========  ********************    Task 2   *******************************************  =========== */
+ 
+
+
+
+#task2{
+    /* border: solid red; */
+    background-color:whitesmoke;
+    /* border-top:  1px solid gray; */
+    margin-bottom: 50px;
+}
+
+/* #task .border{
+    border-top:  10px solid gray;
+    margin-top:10px;
+} */
+
+#task2 .logo{
+    /* border: solid blue; */
+    display: inline-block;
+    /* font-size: large; */
+}
+
+/* #task1 i{
+    /* border: solid blue; */
+    /* display: inline-block;
+    font-size:xx-large; */
+/* }  */
+
+/* #task1 .simple-header{
+    /* border: solid green; */
+    /* display: inline-block;
+    padding: 35px 0px;
+    font-size: 25px;  */
+/* }  */
+
+#task2 .options{
+    /* border: solid blue; */
+    display: inline-block;
+    margin-left: 450px;
+    padding: 30px 0px;
+    color: #0000EE;
+}
+
+#task2 .options div{
+    /* border: solid teal; */
+    display: inline-block;
+    padding: 0px 0px;
+}
+
+#task2 .options .items{
+    /* border: solid teal; */
+    display: inline-block;
+    font-size: 18px ;
+    padding: 0px 10px;
+}
+
+#task2 .options .items:hover{
+background-color: #0000EE;
+color: white;
+border-radius: 8px;
+
+}
+
+
+/* =========   ******************    Task 3        ******************** =========== */
+
+#task3{
+    /* border: solid red; */
+    background-color:whitesmoke;
+    /* border-top:  1px solid gray; */
+    margin-bottom: 50px;
+}
+
+/* #task .border{
+    border-top:  10px solid gray;
+    margin-top:10px;
+} */
+
+#task3 .logo{
+    /* border: solid blue; */
+    display: inline-block;
+    /* font-size: large; */
+}
+#task3 i{
+    /* border: solid blue; */
+    display: inline-block;
+    font-size:xx-large;
+}
+
+#task3 .simple-header{
+    /* border: solid green; */
+    display: inline-block;
+    padding: 30px 0px;
+    font-size: 25px; 
+}
+
+#task3 .options{
+    /* border: solid blue; */
+    display: inline-block;
+    margin-left: 412px;
+    padding: 30px 0px;
+    /* color: blue; */
+}
+
+#task3 .options div{
+    /* border: solid teal; */
+    display: inline-block;
+    padding: 0px 0px;
+}
+
+#task3 .options .items{
+    /* border: solid teal; */
+    display: inline-block;
+    font-size: 18px ;
+    padding: 0px 10px;
+}
+
+#task3 .options .items:hover{
+background-color: #0000EE;
+color: white;
+border-radius: 8px;
+
+}
+
+
+#task3 .options .button1{
+    /* border: solid blue; */
+    display: inline-block;
+    margin: 0px 0px 0px 473px
+    /* padding: 35px 0px; */
+    /* color: blue; */
+}
+
+#task3 .options .button1:hover{
+    background-color: #0000EE;
+    color: white;
+    border-radius: 8px;
+}
+
+
+#task3 .options .button2:hover{
+    background-color: #0000EE;
+    color: white;
+    border-radius: 8px;
+}
+
+
+
+
+
+/* =========   ******************    Task 4        ******************** =========== */
+
+#task4{
+    /* border: solid red; */
+    background-color:black;
+    /* border-top:  1px solid gray; */
+    margin-bottom: 50px;
+}
+
+/* #task .border{
+    border-top:  10px solid gray;
+    margin-top:10px;
+} */
+
+#task4 .logo{
+    /* border: solid blue; */
+    display: inline-block;
+    /* font-size: large; */
+}
+#task4 i{
+    /* border: solid blue; */
+    display: inline-block;
+    font-size:xx-large;
+    color: white;
+}
+
+#task4 .simple-header{
+    /* border: solid green; */
+    display: inline-block;
+    padding: 25px 0px;
+    font-size: 25px; 
+}
+
+#task4 .options{
+    /* border: solid blue; */
+    display: inline-block;
+    margin-left: 0px;
+    padding: 25px 0px;
+    /* color: blue; */
+}
+
+#task4 .options div{
+    /* border: solid teal; */
+    display: inline-block;
+    padding: 0px 0px;
+}
+
+#task4 .options .items{
+    /* border: solid teal; */
+    display: inline-block;
+    font-size: 18px ;
+    padding: 0px 10px;
+    color: white;
+}
+
+#task4 .options .inputs{
+    /* border: solid teal; */
+    display: inline-block;
+    /* font-size: 18px ; */
+    padding: 0px 10px;
+    margin: 0px 0px 0px 717px
+}
+
+#task4 .options .items:hover{
+background-color: orange;
+color: white;
+border-radius: 8px;
+
+}
+
+
+#task4 .options .button1{
+    /* border: solid blue; */
+    display: inline-block;
+    margin: 0px 0px 0px 0px;
+    /* padding: 35px 0px; */
+    /* color: blue; */
+}
+
+#task4 .options .button1:hover{
+    background-color: orange;
+    color: white;
+    border-radius: 8px;
+}
+
+
+#task4 .options .button2:hover{
+    background-color: orange;
+    color: white;
+    border-radius: 8px;
+}
+
+
+
+
+
+/* =========   ******************    Task 5        ******************** =========== */
+
+#task5{
+    /* border: solid red; */
+    background-color:whitesmoke;
+    /* border-top:  1px solid gray; */
+    margin-bottom: 50px;
+    font-family: "Nanum Gothic", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* .nanum-gothic-regular {
+    font-family: "Nanum Gothic", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  } */
+  
+
+/* #task .border{
+    border-top:  10px solid gray;
+    margin-top:10px;
+} */
+
+#task5 .logo{
+    /* border: solid blue; */
+    display: inline-block;
+    /* font-size: large; */
+}
+#task5 i{
+    /* border: solid blue; */
+    display: inline-block;
+    font-size:xx-large;
+    color:black;
+}
+
+#task5 .simple-header{
+    /* border: solid green; */
+    display: inline-block;
+    padding: 25px 0px;
+    font-size: 25px; 
+}
+
+#task5 .options{
+    /* border: solid blue; */
+    display: inline-block;
+    margin-left: 0px;
+    padding: 25px 0px;
+    /* color: blue; */
+}
+
+#task5 .options div{
+    /* border: solid teal; */
+    display: inline-block;
+    padding: 0px 0px;
+}
+
+#task5 .options .items{
+    /* border: solid teal; */
+    display: inline-block;
+    font-size: 18px ;
+    padding: 0px 10px;
+    color: black;
+}
+
+#task5 .options .inputs{
+    /* border: solid teal; */
+    display: inline-block;
+    /* font-size: 18px ; */
+    padding: 0px 10px;
+    margin: 0px 0px 0px 697px
+}
+
+#task5 .options .items:hover{
+background-color: orange;
+color: white;
+border-radius: 8px;
+
+}
+
+
+#task5 .options .button1{
+    /* border: solid blue; */
+    display: inline-block;
+    margin: 0px 0px 0px 0px;
+    /* padding: 35px 0px; */
+    /* color: blue; */
+}
+
+#task4 .options .button1:hover{
+    background-color: orange;
+    color: white;
+    border-radius: 8px;
+}
+
+
+#task5 .options .button2:hover{
+    background-color: orange;
+    color: white;
+    border-radius: 8px;
+}
+
+
+
+
+/* =========   ******************    Task 5        ******************** =========== */
+
+#task5{
+    /* border: solid red; */
+    background-color:whitesmoke;
+    /* border-top:  1px solid gray; */
+    margin-bottom: 50px;
+    font-family: "Nanum Gothic", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* .nanum-gothic-regular {
+    font-family: "Nanum Gothic", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  } */
+  
+
+/* #task .border{
+    border-top:  10px solid gray;
+    margin-top:10px;
+} */
+
+#task5 .logo{
+    /* border: solid blue; */
+    display: inline-block;
+    /* font-size: large; */
+}
+#task5 i{
+    /* border: solid blue; */
+    display: inline-block;
+    font-size:xx-large;
+    color:black;
+}
+
+#task5 .simple-header{
+    /* border: solid green; */
+    display: inline-block;
+    padding: 25px 0px;
+    font-size: 25px; 
+}
+
+#task5 .options{
+    /* border: solid blue; */
+    display: inline-block;
+    margin-left: 0px;
+    padding: 25px 0px;
+    /* color: blue; */
+}
+
+#task5 .options div{
+    /* border: solid teal; */
+    display: inline-block;
+    padding: 0px 0px;
+}
+
+#task5 .options .items{
+    /* border: solid teal; */
+    display: inline-block;
+    font-size: 18px ;
+    padding: 0px 10px;
+    color: black;
+}
+
+#task5 .options .inputs{
+    /* border: solid teal; */
+    display: inline-block;
+    /* font-size: 18px ; */
+    padding: 0px 10px;
+    margin: 0px 0px 0px 697px
+}
+
+#task5 .options .items:hover{
+background-color: orange;
+color: white;
+border-radius: 8px;
+
+}
+
+
+#task5 .options .button1{
+    /* border: solid blue; */
+    display: inline-block;
+    margin: 0px 0px 0px 0px;
+    background-color: thistle;
+    height: 40px;
+    width: 40px;
+    border-radius: 50px;
+    margin-top: 6px;
+}
+
+#task4 .options .button1:hover{
+    background-color: orange;
+    color: white;
+    border-radius: 8px;
+}
+
+
+#task5 .options .button2:hover{
+    background-color: orange;
+    color: white;
+    border-radius: 8px;
+}
+
+
+
+/* =========   ******************    Task 6       ******************** =========== */
+
+#task6{
+    /* border: solid red; */
+    background-color:whitesmoke;
+    /* border-top:  1px solid gray; */
+    margin-bottom: 50px;
+    font-family: "Nanum Gothic", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+
+
+#task6 i{
+    /* border: solid blue; */
+     display: inline-block;
+    font-size:xx-large;
+    color:black;
+    align-items: center;
+} 
+
+
+
+#task6 .options{
+    /* border: solid blue; */
+    display: inline-block;
+    margin-left: 0px;
+    padding: 25px 0px;
+    /* color: blue; */
+}  
+
+
+
+ .inputs1 {
+    /* border: solid teal; */
+    display: inline-block;
+    /* font-size: 18px ; */
+    padding: 0px 10px;
+    margin: 0px 0px 0px 300px;
+    height: 38px;
+    width: 1000px;
+    align-items: center;
+
+}
+
+
+
+
+#task6 .options .button1{
+    /* border: solid blue; */
+    display: inline-block;
+    background-color: thistle;
+    height: 40px;
+    width: 40px;
+    border-radius: 50px;
+    margin-top: 6px;
+    
+}
+
+
+
+

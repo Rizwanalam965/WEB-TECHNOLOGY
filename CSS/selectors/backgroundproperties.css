@@ -1,0 +1,21 @@
+#container{
+    height: 1200px;
+    width: 1200px;
+    background-color: red;
+    background-image: url(./car.webp);
+    /* if i am taking url link from out side the file like browse directly the  we have to put url in double quots */
+    background-position: 100px;
+    /* background-position-x: left; */
+    /* background-position-x: right; */
+    /* background-position-y: left; */
+    background-position-y: right;
+    
+}
+
+body{
+    background: url("https://cdn.pixabay.com/photo/2017/08/30/01/05/milky-way-2695569_1280.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+    text-align: justify;
+}

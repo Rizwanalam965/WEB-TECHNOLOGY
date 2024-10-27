@@ -1,0 +1,88 @@
+/* *{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+section {
+height: 500px ;
+width: 800px;
+border: solid red;
+background-color: bisque;
+margin:  100px auto;
+
+}
+
+
+
+div{
+    height: 100px;
+    width: 100px;
+    border: solid;
+    background-color: chocolate;
+    display: inline-block;
+
+
+}
+
+section :nth-child(1){
+    background-color: red;
+}
+
+
+section :nth-child(2){
+    background-color: blue;
+    /* position: absolute; */
+    /* position: relative;
+    right: 10px;
+    top: 20px;
+} */
+
+
+/* 
+section :nth-child(3){
+    background-color: pink;
+}
+
+
+section :nth-child(4){
+    background-color: teal;
+}  */
+
+
+
+/* ===================         navbar 1           =======================    */
+
+#navbar1{
+    /* border: solid; */
+    background-color: #131921;
+    position: sticky;
+    top: 10px;
+}
+
+#navbar1 div{
+    /* border: solid red; */
+    display: inline-block;
+    padding: 30px 162px;
+    background-color: #131921;
+    color: white;
+    
+}
+
+#navbar1 div:hover{
+
+    background-color: black;
+    text-decoration: underline orange;
+}
+#chatbox{
+    padding: 20px 50px;
+    background-color: teal;
+    color: white;
+    position: fixed;
+    bottom: 50px;
+    right: 60px;
+    font-size: 20px;
+    border-radius: 5px;
+
+}

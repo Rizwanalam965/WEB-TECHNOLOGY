@@ -1,0 +1,52 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+img[alt="Burger"]{
+    position: absolute;
+    z-index: 55;
+    top: 131px;
+    left: 525px;
+}
+
+
+
+img[alt="Fries"]{
+    position: absolute;
+    z-index: 10;
+    top: 43px;
+    left: 335px;
+    height: 450px;
+}
+
+
+
+img[alt="Drinks"]{
+    position: absolute;
+    z-index: 5;
+    top: 10px;
+    left: 834px;
+
+
+}
+
+#tag div{
+    position: absolute;
+    top: 344px;
+    left: 411px;
+    z-index: 60;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    background-color:red;
+    color: white;
+    text-align: center;
+    border: dashed white;
+    /* border:   dashed  ; */
+    padding: 0px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

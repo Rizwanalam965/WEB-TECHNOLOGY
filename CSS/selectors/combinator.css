@@ -1,0 +1,43 @@
+/* section {
+color: white;
+background-color: teal;
+} */
+
+
+/* section  p{
+    color: white;
+    background-color: teal;
+    } */
+    
+    
+    /* section >p{
+        color: white;
+        background-color: teal;
+        } */
+
+/* 
+        article p{
+            color: white;
+            background-color: teal;
+            } */
+
+
+            /* section > article{
+                color: red;
+                background-color: teal;
+            } */
+/* article + p{
+    color:green;
+    background-color: brown;
+} */
+
+/* article ~ p{
+    color: yellow;
+    background-color: blue;
+} */
+
+aside + p{
+    color: violet;
+}
+
+

@@ -1,0 +1,30 @@
+/* Text properties */
+p{
+    color: blue;
+
+    text-align: left;
+
+    text-transform: capitalize;
+
+    text-decoration: underline overline rebeccapurple;
+
+    text-indent: 50px;
+
+    text-wrap: wrap;
+
+    letter-spacing: 2px;
+
+    word-spacing: 50px;
+
+    line-height: 30px;
+    text-shadow: 4px 3px 5px blue;
+}
+
+div{
+    line-height: 50px;
+}
+
+h1{
+    text-align: center;
+    text-shadow: 4px 3px 5px gray;
+}

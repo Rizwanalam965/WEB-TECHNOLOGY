@@ -1,0 +1,516 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+#Navbar1{
+/* border: solid red; */
+background-color: #2479e9;
+
+}
+
+
+#Navbar1 .options .items1{
+    /* border: solid green;
+    display: inline-block; */
+    padding: 20px 10px 20px 10px;
+    /* margin: 0px 0px 0px 0px; */
+    /* position: absolute; */
+    /* right: 207px; */
+    background-color: #2479e9;
+    color: white;
+    font-size: xx-large;
+
+}
+/* 
+#Navbar1 .logoname {
+
+    border: solid blue;
+    display: inline-block;
+    color: white;
+    font-size: 50px;
+    font-weight: 200;
+
+} */
+
+
+#Navbar1 .options div{
+    /* border: solid green; */
+    display: inline-block;
+    /* padding: 25px 10px 25px 10px; 
+    /* margin: 0px 0px; */
+    /* background-color: #2479e9; */
+    /* color: white; */
+    text-align: center;
+    
+} 
+
+#Navbar1 .options .items{
+    /* border: solid green; */
+    display: inline-block;
+    padding: 35px 10px 24px 12px;
+    /* margin: 0px 0px 0px 0px; */
+    text-align: center;
+    color: rgba(255, 255,255,0.7);
+
+    
+}
+
+
+#Navbar1 .options .About{
+    /* border: solid green;
+    display: inline-block; */
+    padding: 35px 10px 24px 12px;
+    margin: 0px 0px 0px 0px;
+    position: absolute;
+    right: 50px;
+    background-color: #2479e9;
+    color: rgba(255, 255,255,0.7);
+    text-align: center;
+
+}
+
+
+
+/* =========================            Navbar- 2              ================================== */
+
+#Navbar2{
+    /* border: solid red; */
+    background-color: black;
+    
+    }
+    
+    
+    #Navbar2 .options .items1{
+        /* border: solid green;
+        display: inline-block; */
+        padding: 20px 10px 20px 10px;
+        /* margin: 0px 0px 0px 0px; */
+        /* position: absolute; */
+        /* right: 207px; */
+        background-color: black;
+        color: white;
+        font-size: xx-large;
+        margin: auto;
+        position: relative;
+        left: 641px;
+    
+    }
+    /* 
+    #Navbar1 .logoname {
+    
+        border: solid blue;
+        display: inline-block;
+        color: white;
+        font-size: 50px;
+        font-weight: 200;
+    
+    } */
+    
+    
+    #Navbar2 .options div{
+        /* border: solid green; */
+        display: inline-block;
+        /* padding: 25px 10px 25px 10px; 
+        /* margin: 0px 0px; */
+        /* background-color: #2479e9; */
+        /* color: white; */
+        text-align: center;
+        
+    } 
+    
+    #Navbar2 .options .items{
+        /* border: solid green; */
+        display: inline-block;
+        padding: 35px 10px 24px 12px;
+        /* margin: 0px 0px 0px 0px; */
+        text-align: center;
+        color: rgba(255, 255,255,0.7);
+        position: relative;
+        right: 140px;
+        
+
+    }
+
+    #Navbar2 .options .About{
+        /* border: solid green;
+        display: inline-block; */
+        padding: 35px 10px 24px 12px;
+        margin: 0px 0px 0px 0px;
+        position: relative;
+        left: 950px;
+        background-color: black;
+        color: rgba(255, 255,255,0.7);
+        text-align: center;
+    }
+
+
+
+
+    
+/* =========================            Navbar- 3              ================================== */
+
+#Navbar3{
+    /* border: solid red; */
+    background-color: white;
+    
+    }
+    
+    
+    #Navbar3 .options .items1{
+        /* border: solid green;
+        display: inline-block; */
+        padding: 20px 10px 20px 10px;
+        /* margin: 0px 0px 0px 0px; */
+        /* position: absolute; */
+        /* right: 207px; */
+        background-color: white;
+        color: black;
+        font-size: xx-large;
+        margin: auto;
+    
+    }
+    /* 
+    #Navbar1 .logoname {
+    
+        border: solid blue;
+        display: inline-block;
+        color: white;
+        font-size: 50px;
+        font-weight: 200;
+    
+    } */
+    
+    
+    #Navbar3 .options div{
+        /* border: solid green; */
+        display: inline-block;
+        /* padding: 25px 10px 25px 10px; 
+        /* margin: 0px 0px; */
+        /* background-color: #2479e9; */
+        /* color: white; */
+        text-align: center;
+        
+    } 
+    
+    #Navbar3 .options .items{
+        /* border: solid green; */
+        display: inline-block;
+        padding: 35px 10px 24px 12px;
+        /* margin: 0px 0px 0px 0px; */
+        text-align: center;
+        color: gray;
+        position: relative;
+        left: 526px;
+
+    }
+
+    #Navbar3 .options .About{
+        /* border: solid green;
+        display: inline-block; */
+        padding: 35px 10px 24px 12px;
+        margin: 0px 0px 0px 0px;
+        background-color: white;
+        color: gray;
+        text-align: center;
+        position: relative;
+        left: 931px;
+    }
+
+
+
+
+    
+/* =========================            Navbar- 4              ================================== */
+
+#Navbar4{
+    /* border: solid red; */
+    background-color:whitesmoke;
+    
+    }
+    
+    
+    #Navbar4 .options .items1{
+        /* border: solid green;
+        display: inline-block; */
+        padding: 20px 10px 20px 10px;
+        /* margin: 0px 0px 0px 0px; */
+        /* position: absolute; */
+        /* right: 207px; */
+        background-color: whitesmoke;
+        color: black;
+        font-size: xx-large;
+        margin: auto;
+        position: relative;
+        left: 526px;
+    
+    }
+    /* 
+    #Navbar1 .logoname {
+    
+        border: solid blue;
+        display: inline-block;
+        color: white;
+        font-size: 50px;
+        font-weight: 200;
+    
+    } */
+    
+    
+    #Navbar4 .options div{
+        /* border: solid green; */
+        display: inline-block;
+        /* padding: 25px 10px 25px 10px; 
+        /* margin: 0px 0px; */
+        /* background-color: #2479e9; */
+        /* color: white; */
+        text-align: center;
+        
+    } 
+    
+    #Navbar4 .options .items{
+        /* border: solid green; */
+        display: inline-block;
+        padding: 35px 10px 24px 12px;
+        /* margin: 0px 0px 0px 0px; */
+        text-align: center;
+        color: gray;
+        position: relative;
+        left: 528px;
+
+    }
+
+    #Navbar4 .options .About{
+        /* border: solid green;
+        display: inline-block; */
+        padding: 35px 10px 24px 12px;
+        margin: 0px 0px 0px 0px;
+        position: absolute;
+        right: 50px;
+        background-color:whitesmoke;
+        color: gray;
+        text-align: center;
+    }
+
+
+
+
+    
+/* =========================            Navbar- 5              ================================== */
+
+#Navbar5{
+    /* border: solid red; */
+    background-color: #2479e9;
+    
+    }
+    
+    
+    #Navbar5 .options .items1{
+        /* border: solid green;
+        display: inline-block; */
+        padding: 20px 10px 20px 10px;
+        /* margin: 0px 0px 0px 0px; */
+        /* position: absolute; */
+        /* right: 207px; */
+        background-color: #2479e9;
+        color: white;
+        font-size: xx-large;
+        margin: auto;
+    
+    }
+    /* 
+    #Navbar1 .logoname {
+    
+        border: solid blue;
+        display: inline-block;
+        color: white;
+        font-size: 50px;
+        font-weight: 200;
+    
+    } */
+    
+    
+    #Navbar5 .options div{
+        /* border: solid green; */
+        display: inline-block;
+        /* padding: 25px 10px 25px 10px; 
+        /* margin: 0px 0px; */
+        /* background-color: #2479e9; */
+        /* color: white; */
+        text-align: center;
+        
+    } 
+    
+    #Navbar5 .options .items{
+        /* border: solid green; */
+        display: inline-block;
+        padding: 35px 10px 24px 12px;
+        /* margin: 0px 0px 0px 0px; */
+        text-align: center;
+        color: rgba(255, 255,255,0.7);
+        position: relative;
+        left: 528px;
+
+    }
+
+    #Navbar5 .options .About{
+        /* border: solid green;
+        display: inline-block; */
+        padding: 35px 10px 24px 12px;
+        margin: 0px 0px 0px 0px;
+        position: absolute;
+        right: 50px;
+        background-color:#2479e9;
+        color: rgba(255, 255,255,0.7);
+        text-align: center;
+    }
+
+
+
+
+    
+/* =========================            Navbar- 6             ================================== */
+
+#Navbar6{
+    /* border: solid red; */
+    background-color: white;
+    
+    }
+    
+    
+    #Navbar6 .options .items1{
+        /* border: solid green;
+        display: inline-block; */
+        padding: 20px 10px 20px 10px;
+        /* margin: 0px 0px 0px 0px; */
+        /* position: absolute; */
+        /* right: 207px; */
+        background-color: white;
+        color: black;
+        font-size: xx-large;
+        margin: auto;
+    
+    }
+    /* 
+    #Navbar1 .logoname {
+    
+        border: solid blue;
+        display: inline-block;
+        color: white;
+        font-size: 50px;
+        font-weight: 200;
+    
+    } */
+    
+    
+    #Navbar6 .options div{
+        /* border: solid green; */
+        display: inline-block;
+        /* padding: 25px 10px 25px 10px; 
+        /* margin: 0px 0px; */
+        /* background-color: #2479e9; */
+        /* color: white; */
+        text-align: center;
+        
+    } 
+    
+    #Navbar6 .options .items{
+        /* border: solid green; */
+        display: inline-block;
+        padding: 35px 10px 24px 12px;
+        /* margin: 0px 0px 0px 0px; */
+        text-align: center;
+        color: gray;
+        position: relative;
+        left: 1003px;
+
+    }
+
+    #Navbar6 .options .About{
+        /* border: solid green;
+        display: inline-block; */
+        padding: 35px 10px 24px 12px;
+        margin: 0px 0px 0px 0px;
+        position: absolute;
+        right: 50px;
+        background-color: white;
+        color: gray;
+        text-align: center;
+    }
+
+
+        
+/* =========================            Navbar- 7             ================================== */
+
+#Navbar7{
+    /* border: solid red; */
+    background-color: black;
+    border-bottom:  2px solid green;
+    
+    }
+    
+    
+    #Navbar7 .options .items1{
+        /* border: solid green;
+        display: inline-block; */
+        padding: 20px 10px 20px 10px;
+        /* margin: 0px 0px 0px 0px; */
+        /* position: absolute; */
+        /* right: 207px; */
+        background-color: black;
+        color: white;
+        font-size: xx-large;
+        margin: auto;
+    
+    }
+    /* 
+    #Navbar1 .logoname {
+    
+        border: solid blue;
+        display: inline-block;
+        color: white;
+        font-size: 50px;
+        font-weight: 200;
+    
+    } */
+    
+    
+    #Navbar7 .options div{
+        /* border: solid green; */
+        display: inline-block;
+        /* padding: 25px 10px 25px 10px; 
+        /* margin: 0px 0px; */
+        /* background-color: #2479e9; */
+        /* color: white; */
+        text-align: center;
+        /* position: absolute;
+        right: 0px; */
+        
+    } 
+    
+    #Navbar7 .options .items{
+        /* border: solid green; */
+        display: inline-block;
+        padding: 35px 10px 24px 12px;
+        /* margin: 0px 0px 0px 0px; */
+        /* position: absolute;
+        right: 50px; */
+        text-align: center;
+        color: rgba(255, 255,255,0.7);
+        position: relative;
+        left: 1140px;
+
+    }
+
+    #Navbar7 .options .About{
+        /* border: solid green;
+        display: inline-block; */
+        padding: 35px 10px 24px 12px;
+        margin: 0px 0px 0px 0px;
+        position: absolute;
+        right: 50px;
+        background-color: black;
+        color: rgba(255, 255,255,0.7);
+        text-align: center;
+    }

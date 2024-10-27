@@ -1,0 +1,45 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+#container{
+height: 500px;
+width: 800px;
+border: solid red;
+background-color: bisque;
+display: flex;
+/* it is the mendatory properties */
+/* by using the properties  we can create flex box
+where all its direct children will become a flex items */
+justify-content: start;
+/* it will align flex-items  horizontally */
+/* justify-content which is default value start,center, and end ,space-between, space-around, */
+align-items: start;
+/* it will align flex-items  virtically */
+/* align-items which is default value start,center,end */
+
+flex-direction: row;
+/* flex-direction  default values row, column,   row-reverse and column-reverse*/
+
+flex-wrap: wrap;
+/* flex-wrap which is allow to flex items wrap and nowrap */
+align-content: start;
+/* align-content it will work on flex wrap main axis if the wrap main axis is row than it will work on row,
+and if it wrap axis ia col than it will work on col .
+align- content we can pass the value start,center,end*/
+row-gap: 5px;
+column-gap: 10px;
+gap: 5px 10px;
+/*  short hant gap = row-gap,column-gap */
+
+}
+
+#container div{
+    height: 100px;
+    width: 100px;
+    border: solid;
+    background-color:chocolate;
+}

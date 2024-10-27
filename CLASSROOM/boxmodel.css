@@ -1,0 +1,36 @@
+/* div{
+    
+    height: 100px;
+    width: 100px;
+    background-color:green;
+    border-radius: 50%;
+    margin: 50px;
+    padding: 40px;
+} */
+    #myclass1{
+        height: 50px;
+        width: 50px;
+        background-color: red;
+        border-radius: 50%;
+}
+#myclass2{
+    height: 50px;
+    width: 50px;
+    background-color:yellow;
+    border-radius: 50%;
+
+
+}
+#myclass3{
+    height: 50px;
+    width: 50px;
+    background-color: green;
+    border-radius: 50%;
+
+}
+#myclass{
+    height: 150px;
+    width: 70px;
+    background-color: brown;
+}
+
