@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#navbar1{
+    /* border: solid red; */
+    display: flex;
+}
+
+#navbar1 div{
+/* border:  1px solid green; */
+flex: 1;
+padding: 20px;
+text-align: center;
+background-color: teal;
+color: white;
+}
+
+
+/* case 1 changing the flex direction based on min and max width */
+
+@media screen and (min-width:0px) and (max-width:500px){
+    #navbar1{
+        flex-direction: column;
+    }
+}
+
+
+
+
+/* case 2 changing the flex direction based on min and max width */
+
+@media screen and (0px <=width <=500) {
+    #navbar1{
+        flex-direction: column;
+        background-color: green;
+    }
+}
+
+
+
+
+/* case 3 changing the flex direction based on min and max width */
+/* 
+@media screen and (orientation:portrait) {
+    #navbar1{
+        flex-direction: column;
+    }
+} */

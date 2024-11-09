@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    height: 500px;
+    width: 800px;
+    border: solid;
+    background-color: teal;
+    margin: 80px auto;
+}
+
+
+.Box{
+    height: 200px;
+    width: 200px;
+    background-color:tomato;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    font-size: 4rem;
+
+    /* transform: scale(2); */
+    /*  the default value is 1 height and width is same  those mention above or x and y direction  */
+    /* if we write scale 2 it will take 2 times of height and width of given size */
+
+    /* transform: scale(2,1.5); */
+    /* here is 1st one is x direction 2nd y direction */
+    /* transform: scaleX(2) scaleY(1.5) ;
+    transform: scaleZ(2); */
+    /* it will take the size z direction like 3d but here it will not show */
+    /* transform: skew(20deg); */
+    /*   it will be skew or tirksha hoga  x direction and y direction */
+
+    /* transform: skew(20deg,40deg); */
+
+    /*  1st value x-direction 2nd one y-direction */
+
+    /* transform: translate(40px ,50px); */
+    /* it will also move x and y direction  */
+    /* if we give negative it will also work oposite  */
+
+    /* transform: translate(-40px ,-50px); */
+/* 
+    transform: translate(50% ,50%); */
+    /* if we pass the value like percentage it will take percentage according to box size those pass value above 200 ,200 */
+    /* it will move 50% of 200 means 100px from height and 100px width*/
+
+    /* transform: rotate(180deg); */
+    /*  it  rotate x around the box x-direction */
+
+    /* transform: rotateX(180deg); */
+    /*  it  rotate x around the box x-direction */
+
+    /* transform: rotateY(80deg); */
+    /*  it  rotate y around the box y-direction */
+
+    /* transform: rotateZ(80deg); */
+    /*  its  rotate z around the box z-direction */
+
+
+    /* transform: scale(2)  skew(50deg) translate(30px) rotate(45deg) ; */
+
+    /* short hand properties all the properties we can pass in one line */
+
+    /* transform-origin:50% 50%; */
+    /* default value center */
+    /*  you can value pass left ,center ,right,length,% */
+    /* 1st value relative to the x and 2nd value relative to the y  */
+/* 
+    transform-origin:0% 0%; */
+
+    /* transform-origin:10% 0%; */
+
+    transform-origin: 100px 0px;
+    transition: 0.5s ease;
+
+}
+
+
+    .Box:hover{
+        transform: rotate(360deg);
+    }
+
+
+
+

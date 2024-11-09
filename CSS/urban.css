@@ -1,0 +1,270 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* ===============     Navbar    =================== */
+#Container{
+    /* border: solid red; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+    border-bottom:  1px solid gray;
+    background-color: #ffffff;
+    position:fixed;
+    margin-top: -110px;
+}
+
+
+#Container  div{
+    /* border: solid blue; */
+    margin-left: 80px;
+    /* border-bottom: solid gray; */
+    font-size: 20px;
+    display: flex;
+
+
+}
+
+#Container .item2 i {
+    position: absolute;
+    margin-left: 5px;
+    margin-top: 12px;
+    font-size: large;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+#descript{
+    margin-bottom: 20px;
+    font-size: 2.5rem;
+
+}
+
+
+#Container .item2 input {
+    /* position: absolute; */
+    margin-left: -1px;
+    margin-top: 0px;
+    font-size: large;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding: 10px;
+    border-radius: 5px;
+
+}
+
+h1{
+    margin-top: 100px;
+    margin-left: 100px;
+
+}
+
+
+#Container2{
+    border: 1px solid gray;
+    height: 500px;
+    width: 500px;
+    margin-left: 110px;
+    border-radius: 10px;
+    display: flex;
+    padding:  24px 24px 0px 0px;
+    row-gap: 10px;
+    /* column-gap: 10px; */
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+
+#Container2 .caption{
+    display: inline;
+    font-size: 2rem;
+}
+
+#Container2 .Service1 img{
+    height: 64px;
+    width: 117px;
+    /* column-gap: 20px; */
+    /* padding:  24px; */
+    display: flex;
+    justify-content: space-between;
+    border-radius: 10px;
+}
+
+
+#Container2 .Service2 img{
+    height: 75px;
+    width: 170px;
+    /* column-gap: 20px; */
+    /* padding:  24px; */
+    display: flex;
+    justify-content: space-between;
+    border-radius: 10px;
+}
+
+
+
+
+
+#Container3 div img{
+    height: 675px;
+    width: 700px;
+    /* display: flex;
+    justify-content: end;
+    align-items: end; */
+    margin-left: 145px;
+    margin-top: -122px;
+}
+ article{
+    display: flex;
+ }
+
+#logo2 .Rating{
+margin-left: 100px;
+font-size: 1.5rem;
+}
+
+
+#logo2 .headlogo  div img{
+    display: flex;
+    margin-left: 200px;
+    font-size: 1.5rem;
+}
+
+section{
+    display: flex;
+}
+
+#logo2 .headlogo  div img{
+    display: flex;
+    margin-left: 200px;
+    font-size: 1.5rem;
+}
+
+
+.headlogo{
+    font-size: 1.5rem;
+    margin-left: 100px;
+    justify-content: center;
+    align-items: center;
+    margin-top: -25px;
+}
+
+
+
+#photo div img{
+    margin-left: 100px;
+    margin-top: 100px;
+    border-radius: 15px;
+}
+
+.para{
+    font-size: 2rem;
+    
+    margin: 120px 0px 30px 60px;
+
+}
+
+#Photo2{
+    display: flex;
+    justify-content:space-evenly;
+    margin-top:0px ;
+    /* color: black; */
+    /* font-size: 0.9rem; */
+    /* font-weight: bold; */
+}
+
+
+#Photo2 .Picture  img{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.hero{
+    margin-left: 110px; 
+    margin-top: 120px;
+    width: 1320px;
+}
+
+
+
+
+
+/* ============   footer     ========================== */
+
+
+#footpanel{
+    background-color:#f5f5f5 ;
+    margin-top: 100px;
+}
+
+
+#footpanel .footlogo{
+    /* background-color:#f5f5f5 ; */
+    /* margin-top: 10px; */
+    padding: 10px;
+    font-size: larger;
+
+}
+#footcontainer ul {
+list-style: none;
+/* text-decoration: none; */
+/* margin: 10px; */
+}
+
+
+
+#footcontainer a {
+    /* list-style: none; */
+    text-decoration: none;
+    /* padding: 20px; */
+
+}
+
+#footcontainer li {
+    list-style: none;
+    /* text-decoration: none; */
+    /* margin: 10px; */
+    padding: 10px;
+    }
+
+
+    .footcontainer1 li .option1 a{
+        font-size: 4rem;
+    }
+
+
+
+
+
+#footcontainer{
+    background-color:#f5f5f5 ;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.footlogo{
+    margin-left: 128px;
+    margin-top: 100px;
+    height: 100;
+    width: 50;
+}
+
+.footcontainer4 ul {
+    display: flex;
+    margin-top: 30px;
+    margin-left: -250px;
+    font-size: x-large;
+} 
+article .item5{
+margin-top: 100px;
+margin-left: -350px;
+}
+article .item6{
+    margin-top: 150px;
+    margin-left: -108px;
+    }
+    

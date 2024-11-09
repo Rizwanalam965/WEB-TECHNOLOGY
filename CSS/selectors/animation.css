@@ -48,29 +48,51 @@
    0% {
     background-color: rebeccapurple;
     transform: translate(0px,0px);
+    border-radius: 0%;
+    }
+    12.5%{
+        background-color: rebeccapurple;
+        transform: translate(650px,270px);
+        border-radius: 50%;
     }
 
 
-    20% {
+    25% {
         background-color: red;
-        transform: translate(1335px,540px);
-        }
-    30% {
-        background-color: red;
-        transform: translate(1335px,270px);
+        transform: translate(1320px,0px);
+        border-radius: 0%;
         }
 
+        37.5%{
+            background-color: rebeccapurple;
+            transform: translate(650px,270px);
+            border-radius: 50%;
+        }
 
 
-    /* 50% {
+
+    50% {
         background-color: brown;
-        transform: translate(1335px,540px);
-        } */
+        transform: translate(1320px,535px);
+        border-radius: 0%;
+        }
+
+        62.5%{
+            background-color: rebeccapurple;
+            transform: translate(650px,270px);
+            border-radius: 50%;
+        }
         
-    /* 75% {
+    75% {
         background-color: brown;
         transform: translate(0px,540px);
-        } */
+        border-radius: 0%;
+        }
+        87.5%{
+            background-color: rebeccapurple;
+            transform: translate(650px,270px);
+            border-radius: 50%;
+        }
 
 }
 

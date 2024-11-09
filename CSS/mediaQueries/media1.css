@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    color: red;
+}
+
+p{
+    color: blue;
+}
+
+/* ============= case 1  (media type)  ======= */
+
+/* @media print{
+    h1{
+        color: black;
+    }
+
+    p{
+        color: green;
+    }
+} */
+
+
+@media screen{
+    h1{
+        color: black;
+    }
+
+    p{
+        color: green;
+    }
+}
+
+
+/* ================            case 2    Media features and media operators             ================== */
+@media screen and (min-width: 800px ) and (max-width: 1600px)
+{
+    body{
+        background-color:chocolate;
+        
+    }
+    h1::after{
+         content:":Table-Mode";
+    }
+}
+
+
+@media screen and (min-width:400px) and (max-width:800px){
+    body{
+        background-color: aqua;
+        
+    }
+    h1::before{
+        content:"TABLE-MODE";
+        
+    }
+
+}
+
