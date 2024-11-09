@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* #box1{
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    border: solid;
+    animation-name: demo;
+    transform: translateX(0px);
+    animation-duration: 1s;
+} */
+
+/* @keyframes demo {
+    from{
+        height: 200px;
+        width: 200px;
+        background-color: red;
+        border: dashed;
+        transform: translateX(0px);
+    }
+    to{
+        height: 200px;
+        width: 200px;
+        background-color:green;
+        border: solid;
+        transform: translateX(1000px);
+    }
+} */
+
+
+#Example2{
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    border: solid;
+    animation-name: Example2;
+    /* transform: translateX(0px); */
+     animation-duration: 5s ;
+} 
+
+
+
+@keyframes Example2 {
+   0% {
+    background-color: rebeccapurple;
+    transform: translate(0px,0px);
+    }
+
+
+    20% {
+        background-color: red;
+        transform: translate(1335px,540px);
+        }
+    30% {
+        background-color: red;
+        transform: translate(1335px,270px);
+        }
+
+
+
+    /* 50% {
+        background-color: brown;
+        transform: translate(1335px,540px);
+        } */
+        
+    /* 75% {
+        background-color: brown;
+        transform: translate(0px,540px);
+        } */
+
+}
+
+
+/* ============= == Example  3    ----================= */
+
+/* body{
+    background-color: red;
+    animation:  Example3 1s infinite ;
+}
+
+
+ /* @keyframes Example3 {
+    0%{
+        background-color: teal;
+    }
+    10%{
+        background-color: green;
+    }
+    20%{
+        background-color: blue;
+    }
+    30%{
+        background-color:black;
+    }
+    40%{
+        background-color: orange;
+    }
+    50%{
+        background-color: silver;
+    }
+    60%{
+        background-color: gold;
+    }
+    70%{
+        background-color: bisque;
+    }
+    80%{
+        background-color: mediumaquamarine;
+    }
+    90%{
+        background-color: magenta;
+    }
+    100%{
+        background-color: chocolate;
+    }
+} */  
+
+
+
+/* ============= ==                                        Example  4                                  ----================= */
+
+/* #Example4{
+    height: 500px;
+    width: 800px;
+    border: solid ;
+} */
