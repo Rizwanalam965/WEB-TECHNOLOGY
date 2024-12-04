@@ -1,0 +1,733 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* !===================     Navbar     ======================= */
+#Navbar{
+    /* border: solid red; */
+    background-color: #ffffff;
+    color: 212529f;
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma,Arial, Helvetica, sans-serif, sans-serif;
+    display: flex;
+    align-items: center;
+    border: 1.5px solid whitesmoke;
+
+}
+
+
+
+
+#Navbar:hover{
+    /* border: solid red; */
+    color:  #00754A;
+
+}
+
+
+#Navbar .item1{
+    /* border: solid blue; */
+    display: flex;
+    padding-left: 0px;
+    font-size: 16px;
+    padding: 10px;
+    margin: 0px 0px 0px 40px;
+
+
+}
+
+
+
+#Navbar .item2{
+    /* border: solid brown; */
+    margin-left: 400px;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.item2 i{
+    position: absolute;
+    margin: 11px 0px 0px 20px;
+
+}
+
+#Navbar input{
+    border: 1.6px solid whitesmoke;
+    height: 37px;
+    width: 280px;
+    border-radius: 20px;
+    
+}
+
+.item2  input {
+    border: solid green;
+    /* margin-left: 40px; */
+    
+}
+
+
+#Navbar .item3{
+    /* border: solid cadetblue; */
+    margin-left: 70px;
+    font-size: 20px;
+    padding: 10px;
+}
+
+
+
+/* !===================     Navbar2     ======================= */
+
+#Navbar2{
+    /* border:  solid pink; */
+    /* background-color: #1e3932; */
+    padding: 25px;
+    display: flex;
+    
+    
+}
+
+#Navbar2 {
+    background-color: #1e3932;
+    display: flex;
+    text-align: center;
+}
+
+.Starbuck{
+    /* border: solid red; */
+    margin-left: 100px;
+    font-size: 20px;
+    font-family: SoDOSans_light,Arial, Helvetica, sans-serif;
+    color: white;
+    text-align: center;
+    
+}
+#Navbar2 button{
+    border: 1px solid white;
+    background-color: #0e382c;
+    color: white;
+    margin-left: 1040px;
+    /* height: 20px; */
+    width: 120px;
+    padding: 5px;
+    border-radius: 20px;
+}
+
+
+
+
+/* ?  --------------------   DASHBOARD START HERE    --------------------- */
+
+#Dash {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    cursor: pointer;
+    
+}
+
+#Dash img {
+    /* border: solid green;     */
+    border-radius: 10px;
+    height: 220px;
+    width: 1269px;
+    z-index: 10;
+}
+
+/* !   all the paragrapgh content Start here */
+
+#Dash .dashlogo{
+    /* border: solid bisque; */
+    position: absolute;
+    width: 100px;
+    height: 208px;
+    left: 139px;
+}
+
+#Dash .para1{
+    /* border: solid green; */
+    /* background-color: red; */
+    color: white;
+    position: absolute;
+    left: 280px;
+    top: 220px;
+    width: 200px;
+    height: 30px;
+    font-size: 15px;
+}
+
+
+#Dash .para2{
+    /* border: solid green; */
+    /* background-color: red; */
+    color: white;
+    position: absolute;
+    left: 280px;
+    top: 250px;
+    width: 200px;
+    height: 30px;
+    font-size: x-large;
+}
+
+
+#Dash .para3{
+    /* border: solid green; */
+    /* background-color: red; */
+    color: white;
+    position: absolute;
+    left: 280px;
+    top: 290px;
+    width: 590px;
+    height: 30px;
+    font-size: small;
+}
+
+#Dash .para4{
+    /* border: solid green; */
+    /* background-color: red; */
+    color: white;
+    position: absolute;
+    left: 280px;
+    top: 340px;
+    width: 590px;
+    height: 30px;
+    font-size: small;
+}
+
+#Dash .para5{
+    /* border: solid green; */
+    /* background-color: red; */
+    color: white;
+    position: absolute;
+    left: 280px;
+    top: 355px;
+    width: 590px;
+    height: 30px;
+    font-size: large;
+}
+
+
+#Dash .para6{
+    /* border: solid green; */
+    /* background-color: red; */
+    /* color: black; */
+    border-radius: 30px;
+    position: absolute;
+    right: 190px;
+    top: 335px;
+    width: 190px; 
+    height: 30px;
+    font-size: 15px;
+    padding: 25px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    border: none;
+}
+
+
+#Dash  button{
+    /* border: solid green; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* font-size: 5px; */
+}
+
+
+/* ! ===================       Snacks new section start   ============================*/
+
+
+
+
+.Heading{
+    /* border: solid cyan; */
+    color: #1e3932;
+    margin-top: 90px;
+    width: 1270px;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    margin-left: 130px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    cursor: pointer;
+
+}
+
+
+
+
+#Container{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 25px;
+}
+
+#Container .picture1 img{
+    /* border: solid red; */
+    border-radius: 50%;
+    width: 108px;
+    height: 108px;
+    cursor: pointer;
+    
+}
+
+#Container .picture1 img:hover{
+    border:2px solid green;
+    
+}
+
+
+#Container .picture1 {
+    /* border:2px solid green; */
+    font-display:i
+    
+}
+
+#Container .picture1 p {
+    /* border:2px solid green; */
+    color: #212529;
+    font-size: 14px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 90px;
+}
+
+/* ! -------------------------------view menu--------------------- */
+
+.viewmenu{
+    /* border: solid red; */
+    position: absolute;
+    left: 100px;
+    bottom: -90px;
+}
+
+.viewmenu2{
+    position: absolute;
+    right: 100px;
+    bottom: -80px;
+    color: #00754A;
+    font-size: 14px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+
+/* !  ===========   Section 2    ==================== */
+#Container2{
+    background-color: #edebe9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 1524px;
+    height: 316px;
+    margin-bottom: 40px;
+    
+
+}
+
+
+#Container2 div{
+    border: 1px solid gainsboro;
+    background-color: white;
+    border-radius: 10px;
+    height: 160px;
+    width: 405px;
+    column-gap: 20px;
+}
+
+
+/* !  ===========   Section 2  Items1  ==================== */
+
+#Container2  div img{
+    height: 90px;
+    width: 90px;
+    border-radius: 5px;
+
+}
+
+
+#Container2 img{
+    /* border: solid red; */
+    margin: 20px 0px 0px 20px;
+    
+}
+
+#Container2 .vegitem1{
+     /* border: solid red; */
+    position: absolute;
+    left: 185px;
+    bottom: -160px;
+    
+}
+#Container2 .title {
+     /* border: solid blue; */
+    position:absolute;
+    left: 205px;
+    bottom: -180px;
+    width: 244px;
+    height: 16px;
+    font-size: 14px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#Container2 .subtitle{
+    position:absolute;
+    left: 205px;
+    bottom: -200px;
+    /* width: 244px; */
+    /* height: 16px; */
+    font-size: 8px;
+    font-family:Arial, Helvetica, sans-serif;
+    color: gray;
+}
+#Container2 .price{
+    position:absolute;
+    left: 100px;
+    bottom: -267px;
+}
+
+#Container2 .button{
+    background-color: #00754a;
+    border-radius: 20px;
+    color: white;
+    height: 32px;
+    width: 96px;
+    border: none;
+    position:absolute;
+    left: 360px;
+    bottom: -267px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+
+#Container2 .button:hover{
+    background-color: #1d3932;
+}
+
+
+
+/* !  ===========   Section 2  Items2  ==================== */
+
+#Container2  div img{
+    height: 90px;
+    width: 90px;
+    border-radius: 5px;
+
+}
+
+
+#Container2 img{
+    /* border: solid red; */
+    margin: 20px 0px 0px 20px;
+    
+}
+
+#Container2 .vegitem2{
+     /* border: solid red; */
+    position: absolute;
+    left: 665px;
+    bottom: -160px;
+    
+}
+#Container2 .title2 {
+     /* border: solid blue; */
+    position:absolute;
+    left: 685px;
+    bottom: -180px;
+    width: 244px;
+    height: 16px;
+    font-size: 14px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#Container2 .subtitle2{
+    position:absolute;
+    left: 685px;
+    bottom: -200px;
+    /* width: 244px; */
+    /* height: 16px; */
+    font-size: 8px;
+    font-family:Arial, Helvetica, sans-serif;
+    color: gray;
+}
+#Container2 .price2{
+    position:absolute;
+    left: 580px;
+    bottom: -267px;
+}
+
+#Container2 .button2{
+    background-color: #00754a;
+    border-radius: 20px;
+    color: white;
+    height: 32px;
+    width: 96px;
+    border: none;
+    position:absolute;
+    left: 840px;
+    bottom: -267px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+
+#Container2 .button2:hover{
+    background-color: #1d3932;
+}
+
+
+
+
+/* !  ===========   Section 2  Items3  ==================== */
+
+#Container2  div img{
+    height: 90px;
+    width: 90px;
+    border-radius: 5px;
+
+}
+
+
+#Container2 img{
+    /* border: solid red; */
+    margin: 20px 0px 0px 20px;
+    
+}
+
+#Container2 .vegitem3{
+     /* border: solid red; */
+    position: absolute;
+    right: 335px;
+    bottom: -160px;
+    
+}
+#Container2 .title3 {
+     /* border: solid blue; */
+    position:absolute;
+    right: 108px;
+    bottom: -180px;
+    width: 244px;
+    height: 16px;
+    font-size: 14px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#Container2 .subtitle3{
+    position:absolute;
+    right: 195px;
+    bottom: -200px;
+    /* width: 244px; */
+    /* height: 16px; */
+    font-size: 8px;
+    font-family:Arial, Helvetica, sans-serif;
+    color: gray;
+}
+#Container2 .price3{
+    position:absolute;
+    right: 403px;
+    bottom: -267px;
+}
+
+#Container2 .button3{
+    background-color: #00754a;
+    border-radius: 20px;
+    color: white;
+    height: 32px;
+    width: 96px;
+    border: none;
+    position:absolute;
+    right: 95px;
+    bottom: -267px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+
+#Container2 .button3:hover{
+    background-color: #1d3932;
+}
+
+
+
+
+
+/* !  ===========   Section 3    ==================== */
+
+
+
+#Container3{
+    background-color: #edebe9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 1524px;
+    height: 496px;
+
+}
+
+
+
+#Container3 img{
+    height: 372px;
+    width: 1269px;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+.desc{
+    position: absolute;
+    left: 95px;
+    bottom: -454px;
+    font-size: 24px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    width: 447px;
+    color: #1E3932;
+}
+
+.desc1{
+    position: absolute;
+    right: 90px;
+    bottom: -450px;
+    color: #00754A;
+    font-size: 12.8px;
+    font-family: SoDoSans_Semibold,Arial, Helvetica, sans-serif;
+
+}
+
+.cardtitle{
+    /* border: solid red; */
+    position: absolute;
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    margin-right: 800px;
+    margin-bottom: -80px;
+}
+
+.cardtitle1{
+    /* border: solid red; */
+    position: absolute;
+    color: white;
+    font-size: 24px;
+    margin-right: 570px;
+    margin-bottom: -150px;
+    font-size: 18px;
+}
+
+.cardtitle2{
+    /* border: solid red; */
+    position: absolute;
+    color: black;
+    font-size: 16px;
+    margin-left: -950px;
+    margin-bottom: -350px;
+    font-size: 18px;
+    height: 30px;
+    width: 180px;
+    border-radius: 20px;
+    border: none;
+}
+
+.cardtitle2 img :hover{
+background-color: #212529;
+}
+
+.cardtitle3{
+    /* border: solid red; */
+    position: absolute;
+    color: darkgreen;
+    font-size: 8px;
+    font-weight: bold;
+    margin-left: -1100px;
+    margin-bottom: 275px;
+    height: 20px;
+    width: 100px;
+    border-radius: 20px;
+    border: none;
+}
+
+
+
+
+/* !  ===========    ----------------Footer ---------------------   ==================== */
+
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #0e382c;
+    color: white;
+}
+
+.footer-container{
+    /* border: solid red; */
+    margin-top: 150px;
+    /* text-decoration: none; */
+    /* color: white; */
+
+
+}
+
+
+.footer-container li a{
+    /* border: solid blue; */
+    color: white;
+    text-decoration: none;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
+
+li{
+    list-style-type: none;
+    margin-top: 30px;
+    font-family: SoDoSans,Arial, Helvetica, sans-serif;
+}
+
+h3{
+    font-size: 30px;
+}
+
+
+.borderline {
+    
+    /* border: solid red; */
+    display: flex;
+    margin-top: 0px;
+    background-color: #0e382c;
+    height: 250px;
+    width: 1519px;
+    border-top: 1px solid white;
+
+}
+
+.borderline div{
+
+    display: flex;
+    margin: 100px 0px 0px 125px;
+    color: white;
+    
+
+}
+
+
+
+
+.borderline div a{
+    /* border-top: 1px solid white; */
+    color: white;
+}
+
+
+
+

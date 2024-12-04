@@ -66,23 +66,50 @@
 }
 
 /* Unvisited */
-a:link{
+/* a:link{
     color: red;
     background-color: black;
-}
+} */
 
 /* visited */
-a:visited{
+/* a:visited{
     color: blue;
-}
+} */
 
 
 /*Active */
-a:active{
+/* a:active{
     color:green;
-}
-
+} */
+/* 
 a:hover{
     background-color: yellow;
+} */
+
+
+
+a{
+    text-decoration: none;
+    color: black;
+    position: relative;
+    margin: 10px;
 }
 
+a::after{
+    border: 1px solid black;
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0px;
+  width: 40px;
+  /* height: 100px; */
+  transform: scaleX(0);
+  /* background-color: brown; */
+  transition: 0.3s ease-in-out;
+}
+
+a:hover::after{
+    /* background-color: brown; */
+    transform: scaleX(1);
+   
+  }

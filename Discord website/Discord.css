@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+/* !=============== NAVBAR ================================== */
+
+body{
+     background-color: #060336;;
+}
+
+#Navbar{
+    /* border: solid red; */
+    display: flex;
+    color: white;
+    align-items: center;
+    padding: 10px;
+    /* font-size: 16px; */
+    font-family:Ggsans,sans,serif ;
+    font-weight: bold;
+    height: 80px;
+
+}
+
+
+#Navbar .Navitem1 {
+    /* border: solid red; */
+    margin-left: 130px;
+    font-size: 20px;
+}
+
+#Navbar .Navitem4 {
+    /* border: solid blue; */
+    margin-left: 130px;
+    font-family: GgSans,sans-serif;
+    /* padding-left: 30px; */
+}
+
+
+#Navbar .Navitem2 {
+    /* border: solid blue; */
+    margin-left: 30px;
+    font-size: 16px;
+    margin: 25px;
+    font-family: GgSans,sans-serif;
+    
+}
+
+
+#Navbar .Navitem3 {
+    /* border: solid yellow; */
+    margin-left: 120px;
+
+}
+
+
+#Navbar .Navitem3  button{
+    /* border: solid yellow; */
+     height: 40px;
+    width: 70px; 
+    font-size: 14px;
+    border-radius: 20px;
+    font-weight: bold;
+    border: none;
+
+}
+
+
+/* !===============    HOMEPAGE    ================================== */
+
+.Homepage img{
+    height: 557PX;
+    width: 832PX;
+    margin-left: 580px;
+    margin-top: 20px;
+}
+
+
+.TOYBOY img{
+    position: absolute;
+    height: 131PX;
+    width: 168PX;
+    left: 880px;
+    top: 525px;
+}
+
+
+.para {
+    position: absolute;
+    height: 180PX;
+    width: 448PX;
+    left: 200px;
+    top: 180px;
+    color: white;
+    font-size: 33px;
+    font-weight:bolder;
+    font-family: GgSans,sans-serif;
+}
+
+.para1 {
+    position: absolute;
+    height: 124PX;
+    width: 448PX;
+    left: 200px;
+    top: 400px;
+    color: white;
+    font-size: 24px;
+    font-family: GgSans,sans-serif;
+}
